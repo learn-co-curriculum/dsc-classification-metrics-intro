@@ -19,7 +19,7 @@ We'll start by introducing the sigmoid function and showing how it can be used t
 
 We'll then look at the practicalities of evaluating logistic regression models based on our previous experience of using precision, recall, and accuracy to evaluate other classifiers.
 
-We also take a little time to look at how to plot a confusion matrix for a logistic regression classifier and introduce a couple of key concepts for determining the optimal precision-recall tradeoff for a given classifier - Receiver Operating Characteristic (ROC) curves and AUC (the Area Under the Curve).
+We also take a little time to look at how to plot a confusion matrix for a logistic regression classifier and introduce a couple of key concepts for determining the optimal precision-recall trade-off for a given classifier - Receiver Operating Characteristic (ROC) curves and AUC (the Area Under the Curve).
 
 ## Class Imbalance Problems
 
