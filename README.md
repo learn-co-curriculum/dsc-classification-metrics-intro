@@ -6,8 +6,8 @@ This section, you'll be introduced to a new type of machine learning algorithm: 
 
 ## Objectives
 You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
+- Understand and explain what is covered in this section
+- Understand and explain why the section will help you to become a data scientist
 
 ## Logistic Regression
 
